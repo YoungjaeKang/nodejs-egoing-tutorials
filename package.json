@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-egoing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoungjaeKang/nodejs-egoing-tutorials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoungjaeKang/nodejs-egoing-tutorials/issues"
+  },
+  "homepage": "https://github.com/YoungjaeKang/nodejs-egoing-tutorials#readme",
+  "dependencies": {
+    "sanitize-html": "^2.3.3"
+  }
+}
